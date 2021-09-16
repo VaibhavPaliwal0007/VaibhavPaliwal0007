@@ -1,16 +1,147 @@
-### Hi there 👋
+<div align="center">
+  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Vaibhav Paliwal</h1>
+  <h3>A passionate backend developer and a student from India.</h3>
+</div>
 
-<!--
-**VaibhavPaliwal0007/VaibhavPaliwal0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <samp>
+  <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **To be Extroverted**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on <strong>Spring Framework</strong>
+
+- 🤝 I’m looking for help with **Backend Design**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Elanza-48), [Gitlab](https://gitlab.com/Elanza-48)
+
+- 💬 Ask me about **System Designs and Philosophy 😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+  </samp>
+</div>
+
+<div>
+  <div align="center">
+    <h1>Knowledge Base</h1>
+    <img width="500rem" height="auto" src="./resources/img/coders-prog.gif"/>
+  </div>
+
+  <div align="center">
+    <h3>Languages</h3>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=red">
+     </a> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+        alt="javascript"/> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+        alt="html5"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+        alt="css3"/>
+    </a>
+     <a href="https://nodejs.org" target="_blank"> 
+      <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        alt="nodejs"/> 
+    </a>
+    <a href="https://www.java.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+        alt="java"/> 
+    </a>
+    <a href="https://dart.dev/guides" target="_blank">
+      <img src="https://shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white" alt="dart"> 
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Database and Testing</h3>
+    <a href="https://dev.mysql.com/doc/" target="_blank"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&color=pink&style=for-the-badge&logo=MySQL&logoColor=white"
+        alt="MySql"/> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongodb"/> 
+    </a> 
+     <a href="https://jestjs.io/docs/getting-started" target="_blank"> 
+      <img src="https://shields.io/badge/Jest-C21325.svg?&color=important&style=for-the-badge&logo=Jest&logoColor=white"
+        alt="Jest"/> 
+    </a> 
+  
+  </div>
+
+  <div align="center">
+    <h3>Cloud & Hosting</h3>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank">
+      <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+    </a>
+    <a href="https://netlify.com/" target="_blank">
+      <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+    </a>
+    <a href="https://heroku.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+        alt="heroku"/> 
+    </a> 
+  </div>
+
+  <div align="center">
+    <h3>Version Control, Preferred IDE's and tools</h3>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+        alt="git"/>
+    </a>
+    <a href="https://github.com/VaibhavPaliwal0007" target="_blank">
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+     <a href="https://eclipse.org" target="_blank">
+      <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+    </a>
+    <a href="https://postman.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+    </a>
+    <a href="http://www.passportjs.org" target="_blank">
+     <img src="https://shields.io/badge/Passport-34E27A.svg?&color=bluevviolet&style=for-the-badge&logo=Passport&logoColor=white" alt="passport">
+    </a>
+  </div>
+</div>
+</details>
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <div>
+    <a  href="https://www.linkedin.com/in/vaibhav-paliwal-47325b207/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Paliwal"/>
+    </a>
+    <a href="https://twitter.com/vp019" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="elanza48"/>
+    </a>
+    <a href="https://www.leetcode.com/Vp-" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="Vaibhav Paliwal"/>
+    </a>
+  </div>
+</div>
+<br>
+<hr>
+<div align="center">
+  <h2>Github stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavPaliwal0007&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/VaibhavPaliwal0007" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavPaliwal0007&theme=material-palenight" alt="https://github.com/VaibhavPaliwal0007" />
+</div>
+<hr>
+<div align="center">
+  <img  src="resources/img/github-contribution-grid-snake.svg"
+    alt="Vaibhav Paliwal" />
+</div>
