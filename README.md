@@ -140,7 +140,6 @@
     </a>
   </div>
 </div>
-<br>
 <hr>
 <div align="center">
   <h2>Github stats</h2> 
