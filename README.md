@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning NodeJS and practicing DSA.
 
-- 👯 I’m looking to collaborate on <strong>Full Stack projects.</strong>
+- 👯 Looking forward to collaborate on <strong>Full Stack projects.</strong>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/VaibhavPaliwal0007)
 
