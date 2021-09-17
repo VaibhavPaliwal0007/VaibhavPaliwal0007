@@ -8,11 +8,11 @@
   <samp>
   <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
 
-- 🙂 Newbie -> A CSE grad at second year
+- 🙂 Currently a second year student pursuing CSE.
 
 - 🌱 I’m currently learning NodeJS and practicing DSA.
 
-- 👯 I’m looking to collaborate on <strong>Full Stack projects</strong>
+- 👯 I’m looking to collaborate on <strong>Full Stack projects.</strong>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/VaibhavPaliwal0007)
 
