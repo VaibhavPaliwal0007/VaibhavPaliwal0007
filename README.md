@@ -8,7 +8,7 @@
   <samp>
   <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
 
-- 🙂 Newbie
+- 🙂 Newbie -> A CSE grad at second year
 
 - 🌱 I’m currently learning NodeJS and practicing DSA.
 
