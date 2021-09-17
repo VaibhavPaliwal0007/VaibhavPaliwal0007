@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/VaibhavPaliwal0007)
 
-- 🖤 I am always eager to discover new technologies, concepts and thoughts.
+- 🖤 I am always eager to discover new technologies, concepts and ideas.
 
-- 🤒 These days, blockchain development attracts me the most.
+- 🤒 I have a keen interest in Blockchain Development.
 
   </samp>
 </div>
