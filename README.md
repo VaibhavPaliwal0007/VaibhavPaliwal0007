@@ -8,23 +8,23 @@
   <samp>
   <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
 
-- 🌱 I’m currently learning **To be Extroverted**
+- 🙂 Newbie
 
-- 👯 I’m looking to collaborate on <strong>Spring Framework</strong>
+- 🌱 I’m currently learning NodeJS and practicing DSA.
 
-- 🤝 I’m looking for help with **Backend Design**
+- 👯 I’m looking to collaborate on <strong>Full Stack projects</strong>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Elanza-48), [Gitlab](https://gitlab.com/Elanza-48)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/VaibhavPaliwal0007)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 🖤 I am always eager to discover new technologies, concepts and thoughts.
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- 🤒 These days, blockchain development attracts me the most.
+
   </samp>
 </div>
 
 <div>
   <div align="center">
-    <h1>Knowledge Base</h1>
     <img width="500rem" height="auto" src="./resources/img/coders-prog.gif"/>
   </div>
 
@@ -58,6 +58,7 @@
       <img src="https://shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white" alt="dart"> 
     </a>
   </div>
+  <br>
 
   <div align="center">
     <h3>Database and Testing</h3>
@@ -75,7 +76,7 @@
     </a> 
   
   </div>
-
+  <br>
   <div align="center">
     <h3>Cloud & Hosting</h3>
     <a href="https://azure.microsoft.com/en-in/" target="_blank">
@@ -92,7 +93,7 @@
         alt="heroku"/> 
     </a> 
   </div>
-
+<br>
   <div align="center">
     <h3>Version Control, Preferred IDE's and tools</h3>
     <a href="https://git-scm.com/" target="_blank">
@@ -114,21 +115,28 @@
     <a href="http://www.passportjs.org" target="_blank">
      <img src="https://shields.io/badge/Passport-34E27A.svg?&color=bluevviolet&style=for-the-badge&logo=Passport&logoColor=white" alt="passport">
     </a>
+    <a href="https://www.npmjs.com" target="_blank">
+     <img src="https://shields.io/badge/npm-CB3837.svg?&color=ff69b4&style=for-the-badge&logo=Jest&logoColor=white" alt="npm">
+    </a>
   </div>
 </div>
 </details>
-
+<br>
 <div align="center">
   <h3>Connect with me</h3>
   <div>
     <a  href="https://www.linkedin.com/in/vaibhav-paliwal-47325b207/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Paliwal"/>
     </a>
-    <a href="https://twitter.com/vp019" target="_blank">
+    <a href="https://twitter.com/vaibhavvp_" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="elanza48"/>
     </a>
     <a href="https://www.leetcode.com/Vp-" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="Vaibhav Paliwal"/>
+    </a>
+    <a href="https://www.instagram.com/vaibhav.paliwal.vp/" target="_blank">
+      <img src="https://shields.io/badge/Instagram-E4405F.svg?&color=ff69b4&style=for-the-badge&logo=Jest&logoColor=white"
+      alt="vaibhav.paliwal.vp">
     </a>
   </div>
 </div>
