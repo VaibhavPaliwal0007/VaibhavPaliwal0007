@@ -22,10 +22,10 @@
 
   </samp>
 </div>
-
+<br>
 <div>
   <div align="center">
-    <img width="500rem" height="auto" src="./resources/img/coders-prog.gif"/>
+    <img width="500rem" height="auto" src="./resources/img/500InternalServerError.gif"/>
   </div>
 
   <div align="center">
