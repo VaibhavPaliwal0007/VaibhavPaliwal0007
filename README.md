@@ -143,7 +143,7 @@
 <hr>
 <div align="center">
   <h2>Github stats</h2> 
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavPaliwal0007&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavPaliwal0007&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/VaibhavPaliwal0007" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavPaliwal0007&theme=material-palenight" alt="https://github.com/VaibhavPaliwal0007" />
 </div>
