@@ -125,7 +125,7 @@
 <div align="center">
   <h3>Connect with me</h3>
   <div>
-    <a  href="https://www.linkedin.com/in/vaibhav-paliwal-47325b207/" target="_blank">
+    <a  href="www.linkedin.com/in/vp7" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Paliwal"/>
     </a>
     <a href="https://twitter.com/vaibhavvp_" target="_blank">
