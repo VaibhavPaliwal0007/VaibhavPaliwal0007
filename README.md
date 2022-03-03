@@ -148,7 +148,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavPaliwal0007&theme=material-palenight" alt="https://github.com/VaibhavPaliwal0007" />
 </div>
 <hr>
-<div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="Vaibhav Paliwal" />
-</div>
+
